@@ -1,10 +1,10 @@
 # Hello there 👋, My name is Konrad!
 
-I'm Konrad. I'm a second year Master's student studying Economic Analytics, passionate about data analysing 
-and engineering with a knack for transforming raw data into actionable insights.
 
+- 📖 Second year Master's student studying Economic Analytics
+- 🧠 Passionate about data analysing and engineering with a knack for transforming raw data into actionable insights
 - 🔭 I’m currently working on my MA thesis 
-- 💭 I’m currently learning Tensorflow, PySpark
+- ⌨️ I’m currently learning Tensorflow, PySpark
 
 ### 💻 Languages & Tools
 
