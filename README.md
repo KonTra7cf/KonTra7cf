@@ -22,7 +22,7 @@
 
 ### 🛠️ Examples of work
 
-- [Projects during CodersCamp 2021 with a team](https://github.com/coders-camp-2021-best-team)
+- [Projects during 7th edition of CodersCamp with a team](https://github.com/coders-camp-2021-best-team)
 - [Salary Modelling - Winner of 2nd BICC Contest](https://github.com/KonTra7cf/ManagerialSalaryModelling)
 
 
