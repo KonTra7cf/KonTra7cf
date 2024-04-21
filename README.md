@@ -1,13 +1,12 @@
 # Hello there 👋, My name is Konrad!
 
 
-- 📖 Second year Master's student studying Economic Analytics
+- 📖 Second year Master's student studying Economic Analytics (specialisation: *Data Science in business*)
 - 🧠 Passionate about data analysing and engineering with a knack for transforming raw data into actionable insights
 - 🔭 I’m currently working on my MA thesis 
 - ⌨️ I’m currently learning Tensorflow, PySpark
 
 ### 💻 Languages & Tools
-
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -22,8 +21,9 @@
 
 ### 🛠️ Examples of work
 
-- [Projects during 7th edition of CodersCamp with a team](https://github.com/coders-camp-2021-best-team)
 - [Salary Modelling - Winner of 2nd BICC Contest](https://github.com/KonTra7cf/ManagerialSalaryModelling)
+- [Sales Report Project in PowerBI](https://github.com/KonTra7cf/PowerBI-SalesReportProject)
+- [Projects during 7th edition of CodersCamp with a team](https://github.com/coders-camp-2021-best-team)
 
 
         
