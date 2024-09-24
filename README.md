@@ -1,10 +1,10 @@
 # Hello there 👋, My name is Konrad!
 
 
-- 📖 Second year Master's student studying Economic Analytics (specialisation: *Data Science in business*)
+- 📖 **Final** year Master's student studying Economic Analytics (specialisation: *Data Science in business*)
 - 🧠 Passionate about data analysing and engineering with a knack for transforming raw data into actionable insights
-- 🔭 I’m currently working on my MA thesis 
-- ⌨️ I’m currently learning Tensorflow, PySpark
+- 🔭 I’m currently getting ready for master's defence (estimated date: October 2024)
+- ⌨️ I’m currently learning PySpark
 
 ### 💻 Languages & Tools
 
@@ -18,6 +18,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+In addition, I have used PowerBI and DAX language in classes at university related to Business Intelligence and data warehousing.
 
 ### 🛠️ Examples of work
 
