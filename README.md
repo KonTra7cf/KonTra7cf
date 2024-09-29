@@ -23,8 +23,11 @@ In addition, I have used PowerBI and DAX language in classes at university relat
 
 ### 🛠️ Examples of work
 
-- [Salary Modelling (Winner of 2nd BICC Contest)](https://github.com/KonTra7cf/ManagerialSalaryModelling)
-- [Customer retention - classification problem](https://github.com/KonTra7cf/customer_retention)
-- [Sales Report Project in PowerBI](https://github.com/KonTra7cf/PowerBI-SalesReportProject)
-- [Projects during 7th edition of CodersCamp with a team](https://github.com/coders-camp-2021-best-team)
+- Python (Data Analysis):
+  - [Salary Modelling (Winner of 2nd BICC Contest)](https://github.com/KonTra7cf/ManagerialSalaryModelling)
+  - [Customer retention - classification problem](https://github.com/KonTra7cf/customer_retention)
+- PowerBI:
+  - [Sales Report Project in PowerBI](https://github.com/KonTra7cf/PowerBI-SalesReportProject)
+- Web Development:
+  - [Projects during 7th edition of CodersCamp with a team](https://github.com/coders-camp-2021-best-team)
 
