@@ -3,7 +3,7 @@
 
 - 📖 **Final** year Master's student studying Economic Analytics (specialisation: *Data Science in business*)
 - 🧠 Passionate about data analysing and engineering with a knack for transforming raw data into actionable insights
-- 🔭 I’m currently getting ready for master's defence (estimated date: October 2024)
+- 🔭 Master's degree in **Economic analysis** & Bachelor's degree in **Finance and accounting**
 - ⌨️ I’m currently learning PySpark
 
 ### 💻 Languages & Tools
