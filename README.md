@@ -1,9 +1,8 @@
 # Hello there 👋, My name is Konrad!
 
 
-- 📖 **Final** year Master's student studying Economic Analytics (specialisation: *Data Science in business*)
+- 📖 Master's degree in **Economic analysis** & Bachelor's degree in **Finance and accounting**
 - 🧠 Passionate about data analysing and engineering with a knack for transforming raw data into actionable insights
-- 🔭 Master's degree in **Economic analysis** & Bachelor's degree in **Finance and accounting**
 - ⌨️ I’m currently learning PySpark
 
 ### 💻 Languages & Tools
