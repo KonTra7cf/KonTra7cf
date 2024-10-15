@@ -25,6 +25,7 @@ In addition, I have used PowerBI and DAX language in classes at university relat
 - Python (Data Analysis):
   - [Salary Modelling (Winner of 2nd BICC Contest)](https://github.com/KonTra7cf/ManagerialSalaryModelling)
   - [Customer retention - classification problem](https://github.com/KonTra7cf/customer_retention)
+  - [Customer segmentation - cluster analysis](https://github.com/KonTra7cf/customer-segmentation)
 - PowerBI:
   - [Sales Report Project in PowerBI](https://github.com/KonTra7cf/PowerBI-SalesReportProject)
 - Web Development:
